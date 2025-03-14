@@ -30,4 +30,7 @@ Store data in CSV format
 4️⃣ Navigate through multiple pages
 5️⃣ Store the data in CSV
 
-
+🔥 Future Enhancements
+Add product image extraction
+Implement multi-category scraping
+Integrate MongoDB for database storage
